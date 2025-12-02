@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "神のまにまに",
+  "base_artist": "れるりり",
+  "createdAt": "2025-12-02T13:22:11.040314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kami no Manimani (English Cover)【JubyPhonic】神のまにまに",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Kami_no_Manimani_(English_Cover)【JubyPhonic】神のまにまに_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_神のまにまに_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "神のまにまに (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/03_神のまにまに_(feat._天馬司&鳳えむ&草薙寧々&神代類&初音ミク)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "樋口楓",
+      "has_synced": true,
+      "path": "select/04_神のまにまに_樋口楓.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "神のまにまに (feat. 天馬司",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/05_神のまにまに_(feat._天馬司_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "rerulili",
+      "has_synced": true,
+      "path": "select/06_神のまにまに_rerulili.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク",
+      "has_synced": true,
+      "path": "select/07_神のまにまに_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "ワンダーランズ×ショウタイム × 初音ミク",
+      "has_synced": true,
+      "path": "select/08_神のまにまに_ワンダーランズ×ショウタイム_×_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "Dancing Dolls",
+      "has_synced": true,
+      "path": "select/09_神のまにまに_Dancing_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "Urashimasakatasen",
+      "has_synced": true,
+      "path": "select/10_神のまにまに_Urashimasakatasen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "ワンダーランズ x ショウタイム",
+      "has_synced": true,
+      "path": "select/11_神のまにまに_ワンダーランズ_x_ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "melost(天月-あまつき-",
+      "has_synced": false,
+      "path": "select/12_神のまにまに_melost(天月-あまつき-.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "神のまにまに - Kamino Manimani",
+      "artist": "Dancing Dolls",
+      "has_synced": true,
+      "path": "select/13_神のまにまに_-_Kamino_Manimani_Dancing_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "神のまにまに",
+      "artist": "初音未来/GUMI/镜音铃",
+      "has_synced": true,
+      "path": "select/14_神のまにまに_初音未来_GUMI_镜音铃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神のまにまに",
+      "artist": "れるりり",
+      "has_synced": false,
+      "path": "select/pl_01_神のまにまに_れるりり.txt"
+    }
+  ]
+}
